@@ -1,3 +1,3 @@
 hello 1 st line
 2 nd line
-3nd line of probability
+3rd line of probability
